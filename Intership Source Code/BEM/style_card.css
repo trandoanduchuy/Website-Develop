@@ -1,0 +1,31 @@
+.card-item{
+    width: 270px;
+    border-radius: 8px;
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    overflow: hiden;
+}
+.card-item__img{
+    width: 100%;
+}
+.card-item__body{
+    padding: 20px;
+}
+.card-item__name{
+    font-size: 10px;
+    font-weight: bold;
+}
+.card-item__desc{
+    font-size: 14px;
+    color: #ccc;
+}
+.btn{
+    height:36px;
+    border-radius: 8px;
+    color: #fff;
+    display:flex; /*căn chữ ra giữa*/
+    justify-content: center;
+    align-items: center;
+}
+.btn--primary{
+    background-color: blue;
+}

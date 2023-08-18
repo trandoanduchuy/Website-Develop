@@ -1,0 +1,22 @@
+.btn{
+    width: 220px;
+    height: 55px;
+    /* border: 1px solid #ccc; */
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    margin-bottom: 20px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    border-radius: 100rem;
+    color: white;
+}
+
+.btn--blue {
+    background-color: #2cccff;
+}
+.btn--darkBlue {
+    background-color: #699cfc;
+}
+.btn--green {
+    background-color: #20e3b2;
+}
